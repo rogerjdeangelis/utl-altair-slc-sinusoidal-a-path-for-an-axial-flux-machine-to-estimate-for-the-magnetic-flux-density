@@ -7,7 +7,8 @@ Altair slc sinusoidal a path for an axial flux machine to estimate for the magne
     Altair slc sinusoidal a path for an axial flux machine to estimate for the magnetic flux density
 
     Too long to post on lists, see github
-
+     https://github.com/rogerjdeangelis/utl-altair-slc-sinusoidal-a-path-for-an-axial-flux-machine-to-estimate-for-the-magnetic-flux-density
+     
     Graphic
     https://github.com/rogerjdeangelis/utl-altair-slc-sinusoidal-a-path-for-an-axial-flux-machine-to-estimate-for-the-magnetic-flux-density/blob/main/axial_flux_analysis.pdf
 
@@ -56,6 +57,14 @@ Altair slc sinusoidal a path for an axial flux machine to estimate for the magne
     python example of How do i create a sinusoidal a path for an axial flux machine to estimate for the magnetic flux density
     https://www.perplexity.ai/search/python-example-of-how-do-i-cre-jwMw5rPTSFW396_WczReJw
 
+    /*                   _
+    (_)_ __  _ __  _   _| |_
+    | | `_ \| `_ \| | | | __|
+    | | | | | |_) | |_| | |_
+    |_|_| |_| .__/ \__,_|\__|
+            |_|
+    */
+    
     /*--- sinusoidal plot ---*/
     %utlfkil(d:/pdf/sinusoidal_path_xy.pdf);     XY Path Projection
     %utlfkil(d:/pdf/flux_density_path.pdf);      Flux Density vs Z
@@ -69,13 +78,6 @@ Altair slc sinusoidal a path for an axial flux machine to estimate for the magne
                      workx.summary_stats ;        /*--- output ---*/
     run;quit;
 
-    /*                   _
-    (_)_ __  _ __  _   _| |_
-    | | `_ \| `_ \| | | | __|
-    | | | | | |_) | |_| | |_
-    |_|_| |_| .__/ \__,_|\__|
-            |_|
-    */
     options validvarname=v7 ls=255;
     data workx.params;
      label
