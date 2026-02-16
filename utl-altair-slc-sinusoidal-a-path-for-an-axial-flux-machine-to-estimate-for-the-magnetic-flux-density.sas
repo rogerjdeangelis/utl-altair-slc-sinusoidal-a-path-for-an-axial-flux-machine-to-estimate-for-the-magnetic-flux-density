@@ -5,6 +5,7 @@
 Altair slc sinusoidal a path for an axial flux machine to estimate for the magnetic flux density
 
 Too long to post on lists, see github
+https://github.com/rogerjdeangelis/utl-altair-slc-sinusoidal-a-path-for-an-axial-flux-machine-to-estimate-for-the-magnetic-flux-density
 
 Graphic
 https://github.com/rogerjdeangelis/utl-altair-slc-sinusoidal-a-path-for-an-axial-flux-machine-to-estimate-for-the-magnetic-flux-density/blob/main/axial_flux_analysis.pdf
